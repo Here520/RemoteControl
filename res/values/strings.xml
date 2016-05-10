@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Remote Control</string>
+    <string name="title_activity_fond_devices">FondDevices</string>
+</resources>
